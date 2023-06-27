@@ -14,6 +14,8 @@ businesses. Besides cost, many of those tools require a permanent internet conne
 
 ## Try out the web interface
 
+<img src="https://github.com/DevicezApp/.github/assets/38865194/534079f4-b0bd-43d4-9ecf-7d3be23d987d" width=50% height=50% alt="DeviceZ webapp">
+
 Visit https://demo.devicez.de and create yourself an account!
 
 [... more on the current state of the project here](https://github.com/DevicezApp/application#readme)
