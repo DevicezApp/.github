@@ -12,4 +12,8 @@ business. Besides costs, many of those tools require a permanent internet connec
 - capable of working offline / in a local network only
 - able to run on windows and linux
 
+## Try out the web interface
+
+Visit https://demo.devicez.de and create yourself an account!
+
 [... more on the current state of the project here](https://github.com/DevicezApp/application#readme)
